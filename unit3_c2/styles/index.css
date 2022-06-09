@@ -1,0 +1,21 @@
+#navbar{
+   display: flex;
+   justify-content: space-between;
+   padding:0 20px;
+   align-items: center;
+   background-color:aqua;
+   color:black;
+
+}
+#form{
+   margin-left: 600px;
+
+}
+
+
+img{
+   width: 220px;
+}
+#submit{
+   width:170px;
+}
